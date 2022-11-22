@@ -47,7 +47,7 @@
 |---|--- |
 |**Alcance de la solución**|Se pretende establecer una relación cliente-profesional automatizada, donde el cliente pueda detallar su demanda, realizar el pago, recibir una notificación por cada novedad, ver sus demandas si tiene más de una con el despacho. Los administradores profesionales del despacho recibirán una notificación cada vez que ingrese un nuevo cliente, recibir sus honorarios, tener un escrito jurídico listo para poder trabajar, controlar los pagos recibidos, dar comentarios en los nuevos procesos de cada expediente y comunicarlo directamente al cliente mediante una notificación automática de la plataforma|
 |**Requerimientos Funcionales**|Requiere poder recibir el pago de sus honorarios, tener un control de los honorarios, tener un escrito de carácter jurídico en formato word listo para trabajar, comentar las novedades del proceso para que el cliente pueda dar un seguimiento a su demanda, debe ser responsive para poder usarse en escritorio como móvil |
-|**Requerimientos no Funcionales y de calidad** |Solicita que se usen los colores <span style="color:blue">azul marino</span> y <span style="color:white">blanco</span>|
+|**Requerimientos no Funcionales y de calidad** |Solicita que se usen los colores azul marino`#0000ff` y blanco `#ffffff`|
 
 **Interesados en la solución**
 
