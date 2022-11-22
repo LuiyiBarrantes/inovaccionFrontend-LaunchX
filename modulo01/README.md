@@ -28,7 +28,7 @@
 - La preferencia de colores es azul marino y blanco, pero acepta propuestas. 
 
 |Líder Funcional |
-|:---|
+|---|
 |Partiendo de lo solicitado por el despacho de abogados se desarrollara una plataforma web que permita la comunicación entre potenciales clientes y el staff de abogados, por medio de la cual los clientes podrán ingresar la solicitud de inicio de demanda, abonar los honorarios pertinentes al proceso y recibiran las novedades de su causa por correo electronico. Los administradores de la plataforma podrán acceder a los datos recibidos del cliente, los pagos y un modelo de demanda para poder trabajar en ella, los administradores tendrán la capacidad de informar a sus clientes el estado del expediente a través de correos electrónicos. Se acepta la preferencia de los colores y se plantearan otros.|
 
 
@@ -39,27 +39,21 @@
 
 |Modelamiento de Negocio|
 |---|
-![Diagrama de Flujo](ABOGABOT%20diagrama%20de%20flujo.jpg "Diagrama de Flujo")
+![Diagrama de Flujo](ABOGABOT%20diagrama%20de%20flujo.jpg "Diagrama de Flujo")|
 
 
 
-Términos de Referencia
-Alcance de la solución 
-Se pretende establecer una relación cliente-profesional automatizada, donde el cliente pueda detallar su demanda, realizar el pago, recibir una notificación por cada novedad, ver sus demandas si tiene más de una con el despacho. Los administradores profesionales del despacho recibirán una notificación cada vez que ingrese un nuevo cliente, recibir sus honorarios, tener un escrito jurídico listo para poder trabajar, controlar los pagos recibidos, dar comentarios en los nuevos procesos de cada expediente y comunicarlo directamente al cliente mediante una notificación automática de la plataforma
+||Términos de Referencia |
+|---|--- |
+|**Alcance de la solución**|Se pretende establecer una relación cliente-profesional automatizada, donde el cliente pueda detallar su demanda, realizar el pago, recibir una notificación por cada novedad, ver sus demandas si tiene más de una con el despacho. Los administradores profesionales del despacho recibirán una notificación cada vez que ingrese un nuevo cliente, recibir sus honorarios, tener un escrito jurídico listo para poder trabajar, controlar los pagos recibidos, dar comentarios en los nuevos procesos de cada expediente y comunicarlo directamente al cliente mediante una notificación automática de la plataforma|
+|**Requerimientos Funcionales**|Requiere poder recibir el pago de sus honorarios, tener un control de los honorarios, tener un escrito de carácter jurídico en formato word listo para trabajar, comentar las novedades del proceso para que el cliente pueda dar un seguimiento a su demanda, debe ser responsive para poder usarse en escritorio como móvil |
+|**Requerimientos no Funcionales y de calidad** |Solicita que se usen los colores <span style="color:blue">azul marino</span> y <span style="color:white">blanco</span>|
 
+**Interesados en la solución**
 
-Requerimientos Funcionales y 
-Requiere poder recibir el pago de sus honorarios, tener un control de los honorarios, tener un escrito de carácter jurídico en formato word listo para trabajar, comentar las novedades del proceso para que el cliente pueda dar un seguimiento a su demanda, debe ser responsive para poder usarse en escritorio como móvil 
-Requerimientos no Funcionales y de calidad 
-Solicita que se usen los colores azul marino y blanco
-Interesados en la solución
-
-Nombre/Rol/Perfil
-Descripción
-DESPACHO DE ABOGADOS
-ADMINISTRADOR
-
-
+Nombre/Rol/Perfil|Descripción
+---|---
+DESPACHO DE ABOGADOS|ADMINISTRADOR
 
 Requisitos Técnicos
 
