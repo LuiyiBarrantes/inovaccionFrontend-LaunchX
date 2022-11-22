@@ -16,7 +16,7 @@
 #### Descripción de la Solicitud 
 
 ##### Usuario Solicitante:
- 
+
 - Despacho de abogados necesita automatizar las demandas de sus clientes, a través de una página web llenando un formulario.   
 - Al momento de llenar el formulario se manda al proceso de pago para finalizar la transacción. 
 - Dar seguimiento al cliente de su demanda, el cliente crea una cuenta en la plataforma y verá el seguimiento de cada una de las actualizaciones del proceso legal. 
@@ -36,12 +36,10 @@
 
 ### 3.  ANALISIS DE REQUISITOS Y REQUERIMIENTOS 
 
-Fecha Inicio
-DD/MM//AAAA
-Fecha Final
-DD/MM//AAAA
-Modelamiento de Negocio
 
+|Modelamiento de Negocio|
+|---|
+![Diagrama de Flujo](ABOGABOT%20diagrama%20de%20flujo.jpg "Diagrama de Flujo")
 
 
 
