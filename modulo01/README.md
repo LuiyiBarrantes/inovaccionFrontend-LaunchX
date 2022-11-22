@@ -13,11 +13,22 @@
    
   ### 2.  FASE DE FORMALIZACIÓN
 
-|Descripción de la Solicitud |
-|:---
-|Usuario Solicitante|
-| - Despacho de abogados necesita automatizar las demandas de sus clientes, a través de una página web llenando un formulario. Al momento de llenar el formulario se manda al proceso de pago para finalizar la transacción. Dar seguimiento al cliente de su demanda, el cliente crea una cuenta en la plataforma y verá el seguimiento de cada una de las actualizaciones del proceso legal. Permitir que el/los administrador/es del sitio reciba/n la notificación de una nueva demanda y con los datos del formulario crear automáticamente el documento legal en formato word para empezar el proceso. Recibir los pago y ser capaz de verlo en un dashboard para ver la cantidad de ingresos recibidos. Actualizar el proceso de la demanda y agregar comentarios en cada paso del proceso. Que al usuario le lleguen correos de notificación para saber el avance de su proceso. La página debe de ser responsive para poderla ver desde el celular. La preferencia de colores es azul marino y blanco, pero acepta propuestas. 
+#### Descripción de la Solicitud 
+
+##### Usuario Solicitante:
+ 
+- Despacho de abogados necesita automatizar las demandas de sus clientes, a través de una página web llenando un formulario.   
+- Al momento de llenar el formulario se manda al proceso de pago para finalizar la transacción. 
+- Dar seguimiento al cliente de su demanda, el cliente crea una cuenta en la plataforma y verá el seguimiento de cada una de las actualizaciones del proceso legal. 
+- Permitir que el/los administrador/es del sitio reciba/n la notificación de una nueva demanda y con los datos del formulario crear automáticamente el documento legal en formato word para empezar el proceso. 
+- Recibir los pago y ser capaz de verlo en un dashboard para ver la cantidad de ingresos recibidos. 
+- Actualizar el proceso de la demanda y agregar comentarios en cada paso del proceso. 
+- Que al usuario le lleguen correos de notificación para saber el avance de su proceso. 
+- La página debe de ser responsive para poderla ver desde el celular. 
+- La preferencia de colores es azul marino y blanco, pero acepta propuestas. 
+
 |Líder Funcional |
+|:---|
 |Partiendo de lo solicitado por el despacho de abogados se desarrollara una plataforma web que permita la comunicación entre potenciales clientes y el staff de abogados, por medio de la cual los clientes podrán ingresar la solicitud de inicio de demanda, abonar los honorarios pertinentes al proceso y recibiran las novedades de su causa por correo electronico. Los administradores de la plataforma podrán acceder a los datos recibidos del cliente, los pagos y un modelo de demanda para poder trabajar en ella, los administradores tendrán la capacidad de informar a sus clientes el estado del expediente a través de correos electrónicos. Se acepta la preferencia de los colores y se plantearan otros.|
 
 
