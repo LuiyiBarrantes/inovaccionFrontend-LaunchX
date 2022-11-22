@@ -1,8 +1,8 @@
 # Abogabot
 
-##Toma de Requerimientos
+## Toma de Requerimientos
 
-###1.  DESCRIPCIÓN GENERAL DEL REQUERIMIENTO
+### 1.  DESCRIPCIÓN GENERAL DEL REQUERIMIENTO
 
 | PROYECTO | PLATAFORMA APLICACION WEB|
 |:-----|:-----------|
