@@ -75,115 +75,38 @@ DESPACHO DE ABOGADOS|ADMINISTRADOR
 
 ### 5. LEVANTAMIENTO DEL REQUERIMIENTO DETALLADO
 
+||HISTORIAS DE USUARIO|
+|---|---|
+|Nº.|1|
+|Titulo|Formular demanda|
+|Fecha|DD/MM/YYYY|
+|Estimación|Peso dado por un numero entre 1 y 100 acotado por la serie Fibonacci|
 
-HISTORIAS DE USUARIO
-Nº.
-1
-Titulo
-Formular demanda
-Fecha
-DD/MM/YYYY
-Estimación
-Peso dado por un numero entre 1 y 100 acotado por la serie Fibonacci
-Característica/Funcionalidad
-Quiero que el sistema me registre los datos del nuevo cliente en un formulario y a partir del mismo estos datos sean reunidos en un documento de word.
+|Característica/Funcionalidad|
+|---|
+|Quiero que el sistema me registre los datos del nuevo cliente en un formulario y a partir del mismo estos datos sean reunidos en un documento de word.|
 
 
-Razón/Resultado
-Con la finalidad de poder editarlo o directamente iniciar el proceso legal
+Razón/Resultado|
+|---|
+Con la finalidad de poder editarlo o directamente iniciar el proceso legal|
 
 
-Criterios de Aceptación
-Nº
-Titulo
-Contexto
-Evento
-1...
-Ingreso de cliente nuevo / demanda nueva a la plataforma
+Criterios de Aceptación||||
+---|---|---|---|
+Nº|Titulo|Contexto|Evento
+1...|Ingreso de cliente nuevo / demanda nueva a la plataforma|En caso de que omita ingresa de algún dato requerido debe generar un mensaje de error.|Cuando el cliente intenta ingresar diligenciando en el formulario incompleto o con datos falaces
+2|Registro de pago|Registrar el pago del cliente |A partir del momento en que se efectúa el cierre del proceso de pago correctamente se envía la información del mismo a un dashboard para que los administradores puedan controlar los mismos
+n…|
 
-En caso de que omita ingresa de algún dato requerido debe generar un mensaje de error.
+### 6. DISEÑO DE LA ARQUITECTURA DE SOLUCION 
 
-Cuando el cliente intenta ingresar diligenciando en el formulario incompleto o con datos falaces
-2
-Registro de pago
-Registrar el pago del cliente 
-A partir del momento en que se efectúa el cierre del proceso de pago correctamente se envía la información del mismo a un dashboard para que los administradores puedan controlar los mismos
+>En caso de que existan excepciones asociadas a la arquitectura de referencia se debe incluir su correspondiente justificación en las vistas que aplique.
 
 
-n…
-
-
-
-
-
-
-Firmas de aceptación
-Nombre
-Dependencia
-Teléfono
-Firma
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-DISEÑO DE LA ARQUITECTURA DE SOLUCION 
-
-En caso de que existan excepciones asociadas a la arquitectura de referencia se debe incluir su correspondiente justificación en las vistas que aplique.
-
-Fecha
-DD/MM/AAAA
-
-
-Vista Lógica
-Diagrama de Clase
+Vista Lógica|
+---|
+Diagrama de Clase![Diagrama de clase](./diagramaDeClase.png "Diagrama de clase")|
 
  
 
