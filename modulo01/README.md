@@ -48,14 +48,12 @@
 |**Alcance de la solución**|Se pretende establecer una relación cliente-profesional automatizada, donde el cliente pueda detallar su demanda, realizar el pago, recibir una notificación por cada novedad, ver sus demandas si tiene más de una con el despacho. Los administradores profesionales del despacho recibirán una notificación cada vez que ingrese un nuevo cliente, recibir sus honorarios, tener un escrito jurídico listo para poder trabajar, controlar los pagos recibidos, dar comentarios en los nuevos procesos de cada expediente y comunicarlo directamente al cliente mediante una notificación automática de la plataforma|
 |**Requerimientos Funcionales**|Requiere poder recibir el pago de sus honorarios, tener un control de los honorarios, tener un escrito de carácter jurídico en formato word listo para trabajar, comentar las novedades del proceso para que el cliente pueda dar un seguimiento a su demanda, debe ser responsive para poder usarse en escritorio como móvil |
 |**Requerimientos no Funcionales y de calidad** |Solicita que se usen los colores azul marino y blanco|
----
+
 **Interesados en la solución:**
 
 Nombre/Rol/Perfil|Descripción
 ---|---
 DESPACHO DE ABOGADOS|ADMINISTRADOR
-
----
 
 | |**Requisitos Técnicos**|
 |---|---|
@@ -63,32 +61,11 @@ DESPACHO DE ABOGADOS|ADMINISTRADOR
 |**Lenguaje**|☐ JavaScript|
 ### 4. FASE DE PLANEACIÓN Y GERENCIA DEL PROYECTO
 
-|Plan estratégico de fases del proyecto|
-|------------------------|
-
-N°
-Nombre Etapa
-Actividad 
-Rol Responsable
-Fecha Inicio
-Fecha Fin
-Comentarios
-1
-Análisis de requisitos
-Reunir la información necesaria
-Product owner
-03/10/2022
-07/10/2022
-presentación de las necesidades de la aplicación.
-
-
-2
-Diseño aplicación
-Diseñar Wireframe - ui/ux
-Developer
-10/10/2022
-14/10/2022
-Los requerimientos se convierten en un plan y en lo que debería de parecer la aplicación o producto final.
+|Plan |estratégico |de fases| de proyecto| |||
+|---|---|---|---|---|--------|---|
+|N°|Nombre Etapa|Actividad|Rol Responsable|Fecha Inicio|Fecha Fin|Comentarios|
+1|Análisis de requisitos|Reunir la información necesaria|Product owner|03/10/2022|07/10/2022|presentación de las necesidades de la aplicación.
+2|Diseño aplicación|Diseñar Wireframe - ui/ux|Developer|10/10/2022|14/10/2022|Los requerimientos se convierten en un plan y en lo que debería de parecer la aplicación o producto final.|
 
 
 3
