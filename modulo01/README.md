@@ -103,22 +103,13 @@ n…|
 
 Vista Lógica|
 ---|
-Diagrama de Clase![Diagrama de clase](./diagramaDeClase.png "Diagrama de clase")|
-
- 
-
-
+![Diagrama de clase](./diagramaDeClase.png "Diagrama de clase")|
 
 Vista de Implementación
 Diagrama de componentes o diagrama de Paquetes
 
-
-
 Vista de Proceso
 Se puede utilizar alguno de los siguientes diagramas UML: Diagrama de actividades o de flujo 
-
-
-
 
 Si utiliza convenciones para diagramas Ad hoc, por favor describirlas aquí
 Vista de Física
