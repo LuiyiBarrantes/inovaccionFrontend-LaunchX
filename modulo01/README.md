@@ -116,14 +116,10 @@ Vista de Física
 
 Se puede utilizar el diagrama UML de despliegue.
 
-
-
 Si utiliza convenciones para diagramas Ad hoc, por favor describirlas aquí
 Prototipos de interfaces de usuario
 
 Mockups o Bocetos de interfaces graficas para Front-End.
-
-
 
 Si utiliza convenciones para diagramas Ad hoc, por favor describirlas aquí
 Firmas de aceptación
@@ -132,39 +128,6 @@ Dependencia
 Teléfono
 Firma
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Nota: En caso de considerar limitado el uso de UML, es posible utilizar diagramas Ad Hoc.
 
-
+[< Volver](./ "Volver")
