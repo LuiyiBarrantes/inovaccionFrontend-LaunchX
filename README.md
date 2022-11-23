@@ -5,6 +5,6 @@ La sigiuente tabla alojará las prácticas de frontend
 |:-----|:-----------|
 |     modulo 1|1. [Abogabot](./modulo01)
 |    modulo 2| En construcción...    |
-|    mpdulo 3| En construcción...       |
-|    mpdulo 4| En construcción...       |
+|    modulo 3| En construcción...       |
+|    modulo 4| En construcción...       |
 
