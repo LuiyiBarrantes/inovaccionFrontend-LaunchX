@@ -130,4 +130,4 @@ Firma
 
 Nota: En caso de considerar limitado el uso de UML, es posible utilizar diagramas Ad Hoc.
 
-[< Volver](./ "Volver")
+[< Volver](./README.md "Volver")
