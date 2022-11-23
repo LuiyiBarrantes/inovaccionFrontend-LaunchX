@@ -68,7 +68,7 @@ DESPACHO DE ABOGADOS|ADMINISTRADOR
 |2|Diseño aplicación|Diseñar Wireframe - ui/ux|Developer|10/10/2022|14/10/2022|Los requerimientos se convierten en un plan y en lo que debería de parecer la aplicación o producto final.|
 |3|Desarrollo aplicación |Programar la aplicación|Developer|17/10/22|21/10/22|Se hace la programación de la aplicacion, se programa el código haciendo uso de las mejores prácticas y con las reglas de las guías de desarrollo seguro.|
 |4|Verificación|Controlar el funcionamiento|Developer|24/10/22|28/10/22|Controlar y confirmar que las buenas prácticas se aplicaron en el código. Integrando las pruebas de CI/CD e integración de pruebas unitarias.|
-|5|Mantenimiento y evaluación|Dar mantenimiento para el correcto funcionamiento|Developer|–|La aplicación es un ente vivo y por lo tanto tiene que mantenerse en continuo movimiento. |
+|5|Mantenimiento y evaluación|Dar mantenimiento para el correcto funcionamiento|Developer|–|–|La aplicación es un ente vivo y por lo tanto tiene que mantenerse en continuo movimiento. |
 
 >NOTA: Las fechas de planeación establecidas en este documento son aproximadas y estarán sujetas a modificaciones que surjan por control de cambios u otros factores. 
 
