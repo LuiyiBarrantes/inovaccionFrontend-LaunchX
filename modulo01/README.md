@@ -72,8 +72,7 @@ DESPACHO DE ABOGADOS|ADMINISTRADOR
 
 >NOTA: Las fechas de planeación establecidas en este documento son aproximadas y estarán sujetas a modificaciones que surjan por control de cambios u otros factores. 
 
-
-LEVANTAMIENTO DEL REQUERIMIENTO DETALLADO
+### 5. LEVANTAMIENTO DEL REQUERIMIENTO DETALLADO
 
 
 HISTORIAS DE USUARIO
