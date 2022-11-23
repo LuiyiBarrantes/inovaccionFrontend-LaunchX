@@ -83,12 +83,9 @@ DESPACHO DE ABOGADOS|ADMINISTRADOR
 |Estimación|Peso dado por un numero entre 1 y 100 acotado por la serie Fibonacci|
 
 |Característica/Funcionalidad|
-|---|
+|:---:|
 |Quiero que el sistema me registre los datos del nuevo cliente en un formulario y a partir del mismo estos datos sean reunidos en un documento de word.|
-
-
-Razón/Resultado|
-|---|
+**Razón/Resultado**|
 Con la finalidad de poder editarlo o directamente iniciar el proceso legal|
 
 
